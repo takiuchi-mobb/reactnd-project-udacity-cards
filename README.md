@@ -12,13 +12,6 @@ npm run dev
 ### Verification for this Project
 This project checked as iOS Application at my Mac OS with Xcode Debugger. I'm not sure if it will work fine on Android OS.
 
-    "expo": "^22.0.2",
-    "react": "16.0.0-beta.5",
-    "react-native": "^0.49.5",
-    "react-navigation": "^1.0.0-beta.19",
-    "react-redux": "^5.0.6",
-    "uuid": "^3.1.0"
-
 ## Dependencies
 - For React & Redux
   - react
